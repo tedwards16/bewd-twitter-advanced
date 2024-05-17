@@ -11,4 +11,4 @@ amazon:
   access_key_id: <%= ENV['AWS_S3_ACCESS_KEY_ID'] %> 
   secret_access_key: <%= ENV['AWS_S3_SECRET_ACCESS_KEY'] %> 
   region: "us-east-1" 
-  bucket: <%= ENV['TWITTER-PHOTO-UPLOAD-LESSON'] %>
+  bucket: twitter-photo-upload-lesson
